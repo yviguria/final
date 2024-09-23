@@ -1,0 +1,4 @@
+pip install biopython
+streamlit
+biopython
+requests
